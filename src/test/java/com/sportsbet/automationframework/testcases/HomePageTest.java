@@ -40,6 +40,7 @@ public class HomePageTest extends TestBase {
 	@Test(priority = 3)
 	public void selectFirstCardUnderNextToJump() {
 		objHomePage.selectFirstCardUnderNextToJump();
+		
 		//Verify the Next to Jump Carousel is displayed
 		//sa.assertTrue(objHomePage.VerifyFirstCardUnderNextToJump(), "The Next to Jump Carousel is not displayed");
 	}
@@ -61,6 +62,7 @@ public class HomePageTest extends TestBase {
 	@AfterTest
 	public void tearDown() {
 		sa.assertAll();
+		//Driver Quit
 		driver.quit();
 	}
 }
