@@ -6,7 +6,7 @@
 	<test name="Sportsbet Automation Test Cases">
 		<classes>
 			<class
-				name="com.sportsbet.automationframework.testcases.HomePageTest.java"></class>
+				name="com.sportsbet.automationframework.testcases.HomePageTest"></class>
 
 		</classes>
 	</test>

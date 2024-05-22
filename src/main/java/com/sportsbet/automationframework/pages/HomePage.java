@@ -1,6 +1,6 @@
 package com.sportsbet.automationframework.pages;
 
-import java.time.Duration;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -8,8 +8,7 @@ import java.util.Random;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import com.sportsbet.automationframework.base.TestBase;
 import com.sportsbet.automationframework.util.TestUtil;
