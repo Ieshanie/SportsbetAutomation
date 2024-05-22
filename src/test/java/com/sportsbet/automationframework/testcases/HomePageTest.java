@@ -1,6 +1,10 @@
 package com.sportsbet.automationframework.testcases;
 
+import java.time.Duration;
+
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
@@ -65,6 +69,7 @@ public class HomePageTest extends TestBase {
 		test = extent.createTest("selectFirstCardUnderNextToJump");
 		test.log(Status.INFO, "Selecting the first card under Next to Jump");
 		objHomePage.selectFirstCardUnderNextToJump();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(TestUtil.IMPLICIT_WAIT));
 		String screenshotPath = TestUtil.captureScreenshot(driver, "NextToJumpCarousel");
 		test.addScreenCaptureFromPath(screenshotPath);
 	}
