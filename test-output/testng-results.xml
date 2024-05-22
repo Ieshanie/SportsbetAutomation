@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-22T10:58:26 AEST" name="Sportsbet Automation Challenge " finished-at="2024-05-22T10:58:40 AEST" duration-ms="14092">
+  <suite started-at="2024-05-22T19:29:11 AEST" name="Sportsbet Automation Challenge " finished-at="2024-05-22T19:29:24 AEST" duration-ms="13585">
     <groups>
     </groups>
-    <test started-at="2024-05-22T10:58:26 AEST" name="Sportsbet Automation Test Cases" finished-at="2024-05-22T10:58:40 AEST" duration-ms="14092">
+    <test started-at="2024-05-22T19:29:11 AEST" name="Sportsbet Automation Test Cases" finished-at="2024-05-22T19:29:24 AEST" duration-ms="13585">
       <class name="com.sportsbet.automationframework.testcases.HomePageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:26 AEST" name="setup" finished-at="2024-05-22T10:58:35 AEST" duration-ms="8619" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:11 AEST" name="setup" finished-at="2024-05-22T19:29:22 AEST" duration-ms="11006" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyHomePageTitle()[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:35 AEST" name="verifyHomePageTitle" finished-at="2024-05-22T10:58:35 AEST" duration-ms="30" status="PASS">
+        <test-method signature="verifyHomePageTitle()[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:22 AEST" name="verifyHomePageTitle" finished-at="2024-05-22T19:29:22 AEST" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageTitle -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:35 AEST" name="tearDown" finished-at="2024-05-22T10:58:35 AEST" duration-ms="366" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:22 AEST" name="tearDown" finished-at="2024-05-22T19:29:22 AEST" duration-ms="384" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="verifyRacingPage()[pri:2, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:35 AEST" name="verifyRacingPage" finished-at="2024-05-22T10:58:36 AEST" duration-ms="116" status="PASS">
+        <test-method signature="verifyRacingPage()[pri:2, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:22 AEST" name="verifyRacingPage" finished-at="2024-05-22T19:29:22 AEST" duration-ms="116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRacingPage -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:36 AEST" name="tearDown" finished-at="2024-05-22T10:58:36 AEST" duration-ms="13" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:22 AEST" name="tearDown" finished-at="2024-05-22T19:29:22 AEST" duration-ms="13" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,11 +41,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="selectFirstCardUnderNextToJump()[pri:3, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:36 AEST" name="selectFirstCardUnderNextToJump" finished-at="2024-05-22T10:58:36 AEST" duration-ms="466" status="PASS">
+        <test-method signature="selectFirstCardUnderNextToJump()[pri:3, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:22 AEST" name="selectFirstCardUnderNextToJump" finished-at="2024-05-22T19:29:23 AEST" duration-ms="314" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectFirstCardUnderNextToJump -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:36 AEST" name="tearDown" finished-at="2024-05-22T10:58:36 AEST" duration-ms="24" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:23 AEST" name="tearDown" finished-at="2024-05-22T19:29:23 AEST" duration-ms="21" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,11 +56,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="selectTwoBetsTotheBetSlip()[pri:4, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:36 AEST" name="selectTwoBetsTotheBetSlip" finished-at="2024-05-22T10:58:40 AEST" duration-ms="3837" status="PASS">
+        <test-method signature="selectTwoBetsTotheBetSlip()[pri:4, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:23 AEST" name="selectTwoBetsTotheBetSlip" finished-at="2024-05-22T19:29:24 AEST" duration-ms="1144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectTwoBetsTotheBetSlip -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:40 AEST" name="tearDown" finished-at="2024-05-22T10:58:40 AEST" duration-ms="12" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:24 AEST" name="tearDown" finished-at="2024-05-22T19:29:24 AEST" duration-ms="21" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -71,11 +71,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="verifyBetCountInBetSlip()[pri:5, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:40 AEST" name="verifyBetCountInBetSlip" finished-at="2024-05-22T10:58:40 AEST" duration-ms="292" status="PASS">
+        <test-method signature="verifyBetCountInBetSlip()[pri:5, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:24 AEST" name="verifyBetCountInBetSlip" finished-at="2024-05-22T19:29:24 AEST" duration-ms="242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyBetCountInBetSlip -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:40 AEST" name="tearDown" finished-at="2024-05-22T10:58:40 AEST" duration-ms="18" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:24 AEST" name="tearDown" finished-at="2024-05-22T19:29:24 AEST" duration-ms="14" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -86,7 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T10:58:40 AEST" name="tearDown" finished-at="2024-05-22T10:58:40 AEST" duration-ms="247" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sportsbet.automationframework.testcases.HomePageTest@8f4ea7c]" started-at="2024-05-22T19:29:24 AEST" name="tearDown" finished-at="2024-05-22T19:29:24 AEST" duration-ms="235" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
