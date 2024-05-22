@@ -36,4 +36,7 @@ As an Improvement, further exception handling can be implemented for other poten
 **Additional Info**
 
  - Extent reports, TestNG metrics report and screenshots are avaialble in test-output folder.
+ - run_tests.sh shell script is added (https://github.com/Ieshanie/SportsbetAutomation/blob/master/run_tests.sh)
+
+
  
