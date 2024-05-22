@@ -7,7 +7,9 @@
         <methods>
           <include name="setup"/>
           <include name="selectFirstCardUnderNextToJump"/>
+          <include name="verifyRacingPage"/>
           <include name="verifyBetCountInBetSlip"/>
+          <include name="tearDown"/>
           <include name="tearDown"/>
           <include name="selectTwoBetsTotheBetSlip"/>
         </methods>

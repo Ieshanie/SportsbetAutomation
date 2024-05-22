@@ -18,5 +18,24 @@
     <version>5.8.0</version>
 </dependency>
 
+<!-- https://mvnrepository.com/artifact/com.github.adiralashiva8/testng-metrics -->
+<dependency>
+    <groupId>com.github.adiralashiva8</groupId>
+    <artifactId>testng-metrics</artifactId>
+    <version>1.6</version>
+</dependency>
+
+<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>5.0.9</version>
+</dependency>
+
+<dependency>
+    <groupId>ru.yandex.qatools.ashot</groupId>
+    <artifactId>ashot</artifactId>
+    <version>1.5.4</version>
+</dependency>
+
 </dependencies>
 </project>
