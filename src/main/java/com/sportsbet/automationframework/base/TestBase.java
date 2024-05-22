@@ -27,8 +27,9 @@ public class TestBase {
 			
 			// create object of file FileInputStream
 			FileInputStream ip = new FileInputStream(
-			"C:/workspaces/SportsbetAutomationChallenge/SportsbetAutomation/src/main/java/com/sportsbet/automationframework/config/config.properties");
+					System.getProperty("user.dir") + "/src/main/java/com/sportsbet/automationframework/config/config.properties");
 			prop.load(ip);
+			
 
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
