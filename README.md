@@ -1,5 +1,10 @@
 ## SportsBetAutomation Suite README
 
+
+**Framework and Language**
+
+Please note Selenium Java has been used for this project.
+
 **Assumptions**
 
  1. The automation suite operates only when there is a live race. 
